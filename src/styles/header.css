@@ -1,6 +1,6 @@
 .header__top {
   padding: 10px 0px;
-  background: #2f4858;
+  background: #2d2e2e;
   color: #fff;
 }
 
@@ -42,20 +42,23 @@
 
 .header__middle {
   padding: 20px 0px;
+  background: #0f0f0f;
 }
 
 .logo h1 a span {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
+  color: #f9a826;
 }
 
 .logo h1 a i {
-  font-size: 2.2rem;
+  font-size: 2.8rem;
+  color: #f9a826;
 }
 
 .logo h1 a {
   text-decoration: none;
-  color: #2f4858;
-  font-weight: 700;
+  color: #c0c0c0;
+  font-weight: 400;
 }
 
 .logo h1 {
@@ -63,22 +66,23 @@
 }
 
 .header__location span i {
-  font-size: 2.2rem;
-  color: #2f4858;
+  font-size: 1.8rem;
+  color: #c0c0c0;
 }
 
 .header__location-content h4 {
-  font-size: 1.2rem;
-  font-weight: 700;
-  color: #2f4858;
+  font-size: 1.0rem;
+  font-weight: 500;
+  color: #c0c0c0;
 }
 
 .header__location-content h6 {
-  font-weight: 600;
+  font-weight: 300;
+  color: #c0c0c0;
 }
 
 .header__btn {
-  background: #2f4858 !important;
+  background: #c0c0c0 !important;
   padding: 10px 20px;
   border: none;
   outline: none;
@@ -90,7 +94,7 @@
   align-items: center;
   column-gap: 0.4rem;
   text-decoration: none;
-  color: #fff;
+  color: #000;
   justify-content: end;
   font-size: 0.9rem;
 }
@@ -103,7 +107,7 @@
 
 .main__navbar {
   padding: 15px 0px;
-  background: #2f4858;
+  background: #0f0f0f;
 }
 
 .mobile__menu i {
@@ -123,7 +127,7 @@
 }
 
 .nav__item {
-  color: #fff;
+  color: #c0c0c0;
   text-decoration: none;
   transition: 0.3s;
 }
