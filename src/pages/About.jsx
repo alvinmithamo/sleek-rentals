@@ -30,21 +30,16 @@ const About = () => {
                 <h2 className="section__title">
                   We Are Committed To Provide Safe Ride Solutions
                 </h2>
+                <br />
+                
 
                 <p className="section__description">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Eveniet veniam assumenda aperiam accusantium ex autem
-                  perferendis repellendus nostrum delectus. Nemo et dolore est
-                  tempore rem minima adipisci magni dolorum ipsam.
+                    This is where convenience meets quality. With a fleet of well-maintained vehicles and a commitment to exceptional customer service, we strive to make every journey a smooth and memorable experience for our customers. Whether you're exploring the city or embarking on a road trip, we have the perfect vehicle to suit your needs. Discover the freedom of the open road with us!"
                 </p>
-
-                <p className="section__description">
-                  Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                  Eveniet veniam assumenda aperiam accusantium ex autem
-                  perferendis repellendus nostrum delectus. Nemo et dolore est
-                  tempore rem minima adipisci magni dolorum ipsam.
-                </p>
-
+                <br />
+                <br />
+                <br />
+                <br />
                 <div className=" d-flex align-items-center gap-3 mt-4">
                   <span className="fs-4">
                     <i class="ri-phone-line"></i>

@@ -49,10 +49,7 @@ const Footer = () => {
               </h1>
             </div>
             <p className="footer__logo-content">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
-              Consequuntur, distinctio, itaque reiciendis ab cupiditate harum ex
-              quam veniam, omnis expedita animi quibusdam obcaecati mollitia?
-              Delectus et ad illo recusandae temporibus?
+            Sleek Car Rentals is your one-stop shop for all your car rental needs. We are a company built on the desire to provide a smooth and convenient car rental experience, whether you're a local resident or just visiting.
             </p>
           </Col>
 
